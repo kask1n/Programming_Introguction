@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T21:47:19.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YfJ6LR8ANQwac9Omvc4z" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T21:55:11.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2Pkp_0PjJJ34FbO2JOz9" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,14 +18,14 @@
         <mxCell id="I4YClmw_gs8bAhVqxYCF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-15" target="I4YClmw_gs8bAhVqxYCF-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-15" value="N = 5&lt;br&gt;i = 1&lt;br&gt;f = 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-15" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N = 5&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;i = 2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;f = 1&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="198" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-18" value="Вывод на экран искомого (факториал N)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="335" width="250" height="30" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-18" value="Вывод на экран искомого факториала N (&lt;b&gt;f = 120&lt;/b&gt;)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="335" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Последовательное добавление множителей вплоть до N&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Увеличение счётчика для цикла&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="338" y="430" width="340" height="40" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Последовательное добавление множителей вплоть до N через цикл:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;f = 1*2*3*4*5 = 120&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="430" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I4YClmw_gs8bAhVqxYCF-20" value="Ввод N для нахождения факториала N&lt;br&gt;Присвоение начального значения счётчику&lt;br&gt;Присвоение начального значения искомому (факториал)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="338" y="210" width="340" height="60" as="geometry" />
@@ -42,15 +42,10 @@
         <mxCell id="I4YClmw_gs8bAhVqxYCF-22" value="i &amp;lt;= N" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="208" y="310" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-23" target="I4YClmw_gs8bAhVqxYCF-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="450" />
-              <mxPoint x="140" y="350" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-23" target="I4YClmw_gs8bAhVqxYCF-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-23" value="f = f * i&lt;br&gt;i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-23" value="f = f * i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="198" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4YClmw_gs8bAhVqxYCF-33" value="&lt;b&gt;Да&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -58,6 +53,20 @@
         </mxCell>
         <mxCell id="I4YClmw_gs8bAhVqxYCF-34" value="&lt;b&gt;Нет&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="308" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-35" target="I4YClmw_gs8bAhVqxYCF-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="550" />
+              <mxPoint x="130" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-35" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="198" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;Увеличение счётчика для цикла&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="535" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
