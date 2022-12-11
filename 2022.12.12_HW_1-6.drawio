@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T21:03:52.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="30eUWxZHER-CdyHozBqK" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T21:47:19.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YfJ6LR8ANQwac9Omvc4z" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,38 +6,58 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="I4YClmw_gs8bAhVqxYCF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="220" as="targetPoint" />
+            <mxPoint x="258" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I4YClmw_gs8bAhVqxYCF-12" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="198" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-13" value="print (m)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-13" value="print (f)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-15" target="I4YClmw_gs8bAhVqxYCF-17">
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-15" target="I4YClmw_gs8bAhVqxYCF-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-15" value="a = 5&lt;br&gt;b = 2&lt;br&gt;c = 8&lt;br&gt;d = 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-15" value="N = 5&lt;br&gt;i = 1&lt;br&gt;f = 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="198" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-17" target="I4YClmw_gs8bAhVqxYCF-13">
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-18" value="Вывод на экран искомого (факториал N)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="335" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Последовательное добавление множителей вплоть до N&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Увеличение счётчика для цикла&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="430" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-20" value="Ввод N для нахождения факториала N&lt;br&gt;Присвоение начального значения счётчику&lt;br&gt;Присвоение начального значения искомому (факториал)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="210" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-21" value="&lt;b&gt;Введение в программирование. Семинар 1. Домашнее задание. Задача 6:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Составьте блок-схему&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;нахождения факториала N&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="158" y="60" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-22" target="I4YClmw_gs8bAhVqxYCF-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-17" value="m = (a+b+c+d)/4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-22" target="I4YClmw_gs8bAhVqxYCF-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-18" value="Выполнить операцию нахождения среднего арифметического 4-х чисел: &lt;b&gt;(5+2+8+1)/4 = 4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="345" width="520" height="30" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-22" value="i &amp;lt;= N" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="208" y="310" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-19" value="Вывести на экран среднее арифметическое 4-х чисел: &lt;b&gt;m = 4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="445" width="360" height="30" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4YClmw_gs8bAhVqxYCF-23" target="I4YClmw_gs8bAhVqxYCF-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="450" />
+              <mxPoint x="140" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-20" value="Ввод 4-х чисел для нахождения среднего арифметического" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="235" width="360" height="30" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-23" value="f = f * i&lt;br&gt;i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="198" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I4YClmw_gs8bAhVqxYCF-21" value="&lt;b&gt;Введение в программирование. Семинар 1. Домашнее задание. Задача 3.&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Составьте блок-схему&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;нахождения среднего&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;арифметического 4-х&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;чисел&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="50" width="460" height="40" as="geometry" />
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-33" value="&lt;b&gt;Да&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="385" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I4YClmw_gs8bAhVqxYCF-34" value="&lt;b&gt;Нет&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="308" y="320" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
