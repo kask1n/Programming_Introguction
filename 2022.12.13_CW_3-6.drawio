@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T23:58:30.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Md_nA19ZNTLf20ZtXbVo" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T23:58:40.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UzCWAsUJ83jtdCImzvQ7" version="20.7.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="kMDk8R53-lwyva0kq4vZ-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;count = 0&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;distance = 10000&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;first_friend_speed = 1&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;second_friend_speed = 2&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;dog_speed = 5&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;friend = 2&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337" y="200" width="194" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kMDk8R53-lwyva0kq4vZ-5" value="&lt;b&gt;Введение в программирование. Семинар 3. Классная работа. Задача 4:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Составьте блок-схему на основе псевдокода&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kMDk8R53-lwyva0kq4vZ-5" value="&lt;b&gt;Введение в программирование. Семинар 3. Классная работа. Задача 6:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Составьте блок-схему на основе псевдокода&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="189" y="50" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kMDk8R53-lwyva0kq4vZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kMDk8R53-lwyva0kq4vZ-8" target="kMDk8R53-lwyva0kq4vZ-2">
